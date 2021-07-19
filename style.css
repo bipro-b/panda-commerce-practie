@@ -1,0 +1,20 @@
+.panda-bg-info{
+    background-color: #fceae8;
+}
+.cat-bg-one{
+    background-color: #ffa500;
+}
+.cat-bg-two{
+    background-color: #da70d6;
+}
+.cat-bg-three{
+    background-color: #0000ff;
+}
+.panda-btn-color{
+    background-image: linear-gradient(to bottom, #FF589B 0%, #FF136F 100%);
+    
+    color: #fff;
+    border: none;
+    border-radius: 8px;
+    padding: 9px 25px;
+}
